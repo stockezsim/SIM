@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+[1MIN](https://github.com/stockezsim/SIM/tree/master/SIM_1MIN/stock_final_watch_list_all_iter_SIM_1MIN.html)
+[5MIN]()
+
 You can use the [editor on GitHub](https://github.com/stockezsim/SIM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
